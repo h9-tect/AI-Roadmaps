@@ -29,7 +29,7 @@ The Data Science roadmap covers the essential skills and knowledge required to b
 - Tools and Practices
 - Soft Skills and Business Acumen
 
-[View full Data Science Roadmap](link-to-data-science-roadmap)
+[View full Data Science Roadmap](data-science-roadmap.md)
 
 ### Data Analysis Roadmap
 
@@ -44,7 +44,7 @@ The Data Analysis roadmap focuses on the skills needed for effective data analys
 - Business Intelligence and Reporting
 - Advanced Topics
 
-[View full Data Analysis Roadmap](link-to-data-analysis-roadmap)
+[View full Data Analysis Roadmap](data-analysis-roadmap.md)
 
 ### Business Intelligence Roadmap
 
@@ -59,7 +59,7 @@ The Business Intelligence roadmap covers the skills required for turning data in
 - BI Strategy and Governance
 - Soft Skills for BI Professionals
 
-[View full Business Intelligence Roadmap](link-to-business-intelligence-roadmap)
+[View full Business Intelligence Roadmap](business-intelligence-roadmap.md)
 
 ### Data Engineering Roadmap
 
@@ -75,7 +75,7 @@ The Data Engineering roadmap focuses on the skills needed to design and maintain
 - Data Security and Privacy
 - DevOps for Data Engineering
 
-[View full Data Engineering Roadmap](link-to-data-engineering-roadmap)
+[View full Data Engineering Roadmap](data-engineering-roadmap.md)
 
 ### Robotics and AI Roadmap
 
@@ -92,7 +92,7 @@ The Robotics and AI roadmap combines robotics with artificial intelligence. It c
 - Specialized Robotics Fields
 - Ethics and Safety in Robotics and AI
 
-[View full Robotics and AI Roadmap](link-to-robotics-ai-roadmap)
+[View full Robotics and AI Roadmap](robotics-ai-roadmap.md)
 
 ### AI Product Management Roadmap
 
@@ -108,7 +108,7 @@ The AI Product Management roadmap focuses on the skills needed to manage AI prod
 - AI Product Marketing and Sales
 - Emerging Trends in AI Product Management
 
-[View full AI Product Management Roadmap](link-to-ai-product-management-roadmap)
+[View full AI Product Management Roadmap](ai-product-management-roadmap.md)
 
 ### NLP Engineering Roadmap
 
@@ -124,7 +124,7 @@ The NLP Engineering roadmap covers the skills required for Natural Language Proc
 - Ethical Considerations in NLP
 - Advanced and Emerging NLP Topics
 
-[View full NLP Engineering Roadmap](link-to-nlp-engineering-roadmap)
+[View full NLP Engineering Roadmap](nlp-engineering-roadmap.md)
 
 ### Computer Vision Roadmap
 
@@ -143,7 +143,7 @@ The Computer Vision roadmap focuses on the skills needed for image and video ana
 - Ethical Considerations in Computer Vision
 - Emerging Trends in Computer Vision
 
-[View full Computer Vision Roadmap](link-to-computer-vision-roadmap)
+[View full Computer Vision Roadmap](computer-vision-roadmap.md)
 
 ## How to Use These Roadmaps
 
